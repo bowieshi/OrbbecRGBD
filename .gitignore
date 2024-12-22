@@ -1,0 +1,10 @@
+.vscode
+__pycache__
+3D_reconstructor
+data
+scene_obj
+teamviewer
+todesk
+camera_ws/build
+camera_ws/install
+camera_ws/src/camera/lib

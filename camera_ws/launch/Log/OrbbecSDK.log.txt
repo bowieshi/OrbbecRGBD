@@ -1,0 +1,38 @@
+[12/01 15:38:08.093165][debug][6911][Context.cpp:30] Context creating, work_dir=/home/bowie/Desktop/scanAPP/camera_ws/launch
+[12/01 15:38:08.093187][debug][6911][Context.cpp:49] Config file version=1.1
+[12/01 15:38:08.093322][debug][6911][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[12/01 15:38:08.093327][info][6911][Context.cpp:68] Context created with config: default config!
+[12/01 15:38:08.093334][info][6911][Context.cpp:73] Work directory=/home/bowie/Desktop/scanAPP/camera_ws/launch, SDK version=v1.10.12-20240809-69b687f
+[12/01 15:38:08.093339][debug][6911][DeviceManager.cpp:30] DeviceManager init ...
+[12/01 15:38:08.093340][info][6911][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[12/01 15:38:08.093591][debug][6911][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[12/01 15:38:08.093599][debug][6911][EnumeratorLibusb.cpp:324] queryDevicesInfo done!
+[12/01 15:38:08.093622][info][6911][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[12/01 15:38:08.093628][debug][6911][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[12/01 15:38:08.093666][info][6911][DeviceManager.cpp:15] Current found device(s): (0)
+[12/01 15:38:08.093668][debug][6911][DeviceManager.cpp:52] DeviceManager construct done!
+[12/01 15:38:08.093669][info][6911][Pipeline.cpp:15] Try to create pipeline with default device.
+[12/01 15:38:08.093672][warning][6911][ObException.cpp:5] No device found, fail to create pipeline!
+[12/01 15:38:08.093871][debug][6911][Context.cpp:81] Context destroying ...
+[12/01 15:38:08.093873][debug][6911][DeviceManager.cpp:56] DeviceManager destroy ...
+[12/01 15:38:08.093875][debug][6911][DeviceManager.cpp:64] DeviceManager Destructors done
+[12/01 15:38:08.093973][info][6911][Context.cpp:84] Context destroyed
+[12/01 15:38:53.884982][debug][6972][Context.cpp:30] Context creating, work_dir=/home/bowie/Desktop/scanAPP/camera_ws/launch
+[12/01 15:38:53.885014][debug][6972][Context.cpp:49] Config file version=1.1
+[12/01 15:38:53.885025][debug][6972][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[12/01 15:38:53.885029][info][6972][Context.cpp:68] Context created with config: default config!
+[12/01 15:38:53.885038][info][6972][Context.cpp:73] Work directory=/home/bowie/Desktop/scanAPP/camera_ws/launch, SDK version=v1.10.12-20240809-69b687f
+[12/01 15:38:53.885043][debug][6972][DeviceManager.cpp:30] DeviceManager init ...
+[12/01 15:38:53.885045][info][6972][LinuxPal.cpp:32] createObPal: create LinuxPal!
+[12/01 15:38:53.885300][debug][6972][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[12/01 15:38:53.885314][debug][6972][EnumeratorLibusb.cpp:324] queryDevicesInfo done!
+[12/01 15:38:53.885344][info][6972][LinuxPal.cpp:143] Create PollingDeviceWatcher!
+[12/01 15:38:53.885350][debug][6972][UsbDeviceEnumerator.cpp:78] No matched usb device found!
+[12/01 15:38:53.885355][info][6972][DeviceManager.cpp:15] Current found device(s): (0)
+[12/01 15:38:53.885358][debug][6972][DeviceManager.cpp:52] DeviceManager construct done!
+[12/01 15:38:53.885360][info][6972][Pipeline.cpp:15] Try to create pipeline with default device.
+[12/01 15:38:53.885364][warning][6972][ObException.cpp:5] No device found, fail to create pipeline!
+[12/01 15:38:53.885384][debug][6972][Context.cpp:81] Context destroying ...
+[12/01 15:38:53.885386][debug][6972][DeviceManager.cpp:56] DeviceManager destroy ...
+[12/01 15:38:53.885389][debug][6972][DeviceManager.cpp:64] DeviceManager Destructors done
+[12/01 15:38:53.885609][info][6972][Context.cpp:84] Context destroyed
